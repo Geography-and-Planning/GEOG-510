@@ -4,10 +4,11 @@
 
 Course website for GEOG510
 
-Designing Geography map
-
+## Course description
+Designing Geospatial Packages
 python basic
-etc.
+Containing lab and my own summary of course materials
+
 
 ## Credit:
 - [Dr. QiuSheng Wu online lecture](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPehTznt8KCKqul-l0jZGeZW)
