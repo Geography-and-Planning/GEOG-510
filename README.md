@@ -1,6 +1,7 @@
 # GEOG-510
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zyang91/GEOG-510/HEAD)
+[![Software License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 Course website for GEOG510
 
