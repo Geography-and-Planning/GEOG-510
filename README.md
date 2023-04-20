@@ -2,6 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zyang91/GEOG-510/HEAD)
 [![Software License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![image](https://user-images.githubusercontent.com/97125186/233414694-e3357977-4509-4280-bcf1-d396ce6935e9.png)](https://github.com/zyang91/GEOG-510)
 
 Course website for GEOG510
 
