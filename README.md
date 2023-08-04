@@ -15,6 +15,4 @@ Course website for GEOG510
 
 
 ## Credit:
-- [Dr. QiuSheng Wu online lecture](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPehTznt8KCKqul-l0jZGeZW)
-- [Official course website](https://sites.google.com/utk.edu/geog-510)
 - [Dr. QiuSheng Wu github](https://github.com/giswqs)
